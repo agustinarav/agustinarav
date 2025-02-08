@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me
 
-<!--
-**agustinarav/agustinarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a strong enthusiasm for quality assurance and technology, I am constantly exploring innovative products and diving into new technologies, focusing on optimizing user experience and functionality.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently, I'm diving into the fundamentals of automation.
+- 🧠 I’m deepening my knowledge of Java, Python, and JavaScript to understand their differences
+
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=discord,mysql,postman,html,notion,ps)](https://skillicons.dev)
+
+**Project management tools:** Trello, Jira, Confluence, Monday, Miro
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinarav)
