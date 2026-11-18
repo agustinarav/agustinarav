@@ -9,7 +9,7 @@ With a strong enthusiasm for quality assurance and technology, I am constantly e
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=discord,mysql,postman,html,notion,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postman,html,notion,ps)](https://skillicons.dev)
 
 **Project management tools:** Trello, Jira, Confluence, Monday, Miro
 
