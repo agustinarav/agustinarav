@@ -4,7 +4,7 @@ With a strong enthusiasm for quality assurance and technology, I am constantly e
 
 
 - 🌱 Currently, I'm diving into the fundamentals of automation.
-- 🧠 I’m deepening my knowledge of Java, Python, and JavaScript to understand their differences
+- 🧠 I’m deepening my knowledge of JavaScript and JAVA to understand their differences
 
 
 ## Skills
@@ -14,5 +14,4 @@ With a strong enthusiasm for quality assurance and technology, I am constantly e
 **Project management tools:** Trello, Jira, Confluence, Monday, Miro
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinarav)
+
